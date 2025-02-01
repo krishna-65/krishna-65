@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Hi 👋 I'm Krishna Kant 
+
+## 💫 About Me:
 <br>🎓 Currently Pursuing: B.Tech in Engineering<br>💼 Internship: Completed at Numentry Technologies as a Software Developer<br>💻 Skills: MERN Stack, C++<br>🚀 Looking to collaborate on: Web development & AI projects<br>📚 Currently Learning: Advanced MERN Stack & AI integration<br>📩 Ask me about: Web development, Backend, and Full-stack development<br>⚡ Fun Fact: I enjoy solving coding problems and watching action movies!
 
 
