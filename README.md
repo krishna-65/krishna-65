@@ -1,4 +1,4 @@
-# Hi 👋 I'm Krishna Kant 
+## Hi 👋 I'm Krishna Kant 
 
 ## 💫 About Me:
 <br>🎓 Currently Pursuing: B.Tech in Computer Science
